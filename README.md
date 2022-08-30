@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Svelte and Python**
 
-- 📫 How to reach me **kielsa.patryk@gmail.com**
+- 📫 Email me: **kielsa.patryk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
