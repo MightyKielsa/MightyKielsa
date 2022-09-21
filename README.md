@@ -56,6 +56,9 @@
   </a>
 </div>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MightyKielsa)](https://github.com/anuraghazra/github-readme-stats)
+###
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MightyKielsa)](https://github.com/anuraghazra/github-readme-stats)
+![Codewars](https://github.r2v.ch/codewars?user=MightyKielsa&stroke=COLOR)
 
 ###
