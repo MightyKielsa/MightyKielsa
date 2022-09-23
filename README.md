@@ -10,7 +10,7 @@
 
 ###
 
-🔭 I’m currently working on [turnUp Free Event Website](https://production.d3hv43jagk7qg5.amplifyapp.com/)<br><br>📚 I'm currently learning C++ and Svelte JS.<br><br>🎯 Goals: <br>1. Build a full C++ app by Christmas.<br>2. Have 6 different projects done by the end of the year (3 more to go!)<br>3. Attend 3 Tech-related events by December.<br><br>🎲 Fun fact: I'll take desktop computers over laptops any day.<br><br>📫 Email me: **kielsa.patryk@gmail.com**<br><br>🌐 Visit my website: [Patryk Kielsa Portfolio](https://patrykkielsa.com/)
+🔭 I’m currently working on [turnUp Free Event Website](https://production.d3hv43jagk7qg5.amplifyapp.com/)<br><br>📚 I'm currently learning <b>C++</b> and <b>Svelte JS</b>.<br><br>🎯 Goals: <br>1. Build a full C++ app by Christmas.<br>2. Have 6 different projects done by the end of the year (3 more to go!)<br>3. Attend 3 Tech-related events by December.<br><br>🎲 Fun fact: I'll take desktop computers over laptops any day.<br><br>📫 Email me: **kielsa.patryk@gmail.com**<br><br>🌐 Visit my website: [Patryk Kielsa Portfolio](https://patrykkielsa.com/)
 
 ###
 
