@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Patrick Kielsa and I'm a junior software engineer based in the UK.</p>
+<p align="left">I'm a passionate junior software engineer based in the UK. Keen to learn<br><br> <i>Aut inveniam viam aut faciam</i></p>
 
 ###
 
