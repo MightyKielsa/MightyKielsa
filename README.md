@@ -37,7 +37,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" width="52" alt="svelte logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" width="52" alt="cplusplus logo"  />
 </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyKielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
 
 <h2 align="left">Get in touch!</h2>
@@ -59,5 +59,4 @@
 ###
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MightyKielsa)](https://github.com/anuraghazra/github-readme-stats)
 ![Codewars](https://github.r2v.ch/codewars?user=MightyKielsa&stroke=COLOR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyKielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
