@@ -56,6 +56,6 @@
 </div>
 
 ###
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyKielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats) <br>
 ![Codewars](https://github.r2v.ch/codewars?user=MightyKielsa&stroke=COLOR)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MightyKielsa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ###
