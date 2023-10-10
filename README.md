@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Patrick Kielsa</h1>
-<h3 align="center">I'm a passionate software engineer currently based in the UK.</h3>
+<h3 align="center">I'm a passionate software engineer currently based in Poland.</h3>
 
 - 🌱 I’m currently learning **C++, Discrete Mathematics**
 
