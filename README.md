@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Patrick Kielsa</h1>
 <h3 align="center">I'm a passionate software engineer currently based in Poland.</h3>
 
-- 🌱 I’m currently learning **C++, Discrete Mathematics**
+- 🌱 I’m currently learning **Discrete Mathematics** to get a better understanding of Computer Science
 
 - 📰 Portfolio [https://patrykkielsa.com/](https://patrykkielsa.com/)
 
